@@ -1,0 +1,120 @@
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1470px;
+}
+
+
+.logo{
+    float:left;
+    background-color: #333;
+    overflow:hidden;
+    height:98%;
+}
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    height:98%;
+    color: white;
+}
+
+.navbar a {
+    font-size:1.2em;
+    float:left;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:link {
+    color:white;
+}
+
+.navbar a:hover {
+    background-color: grey;
+    color: black;
+}
+
+.navbar a:visited {
+    color: white;
+}
+
+header {
+    height: 50px;
+}
+
+nav {
+    font-size: 1em;
+    float: right;
+    width: 140px;
+    padding: 10px;
+    background-color:#EAEAEA;
+    height: 1327px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+a:link {
+    padding-left:20px;
+    color: black;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+main {
+    margin-right: 160px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    height: 1000px;
+}
+
+footer {
+    font-style: italic;
+    background-color: #CCCCFF;
+}
+
+footer p {
+    margin-left: 400px;
+}
+
+.title {
+    padding-left: 35px;
+    font-size:3em;
+    width: 800px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 275px;
+    margin-top: 20px;
+    border-bottom: solid black;
+}
+
+.smalltitle {
+    font-size:2em;
+    width: 850px;
+    margin-bottom: 30px;
+    margin-left: 220px;
+    margin-top: 65px;
+}
+
+.info {
+    margin-left: 290px;
+    width: 800px;
+}
+
+.future li {
+    margin-bottom: 10px;
+}
+
+.formula {
+    padding: 20px;
+    margin-left: 260px;
+}
+
+.photo {
+    margin-left: 430px;
+}
+

@@ -1,0 +1,160 @@
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1470px;
+}
+
+#banner {
+    width:850px;
+    height:230px;
+}
+
+.logo{
+    float:left;
+    background-color: #333;
+    overflow:hidden;
+    height:98%;
+}
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    height:98%;
+    color: white;
+}
+
+.navbar a {
+    font-size:1.2em;
+    float:left;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:link {
+    color:white;
+}
+
+.navbar a:hover {
+    background-color: grey;
+    color: black;
+}
+
+.navbar a:visited {
+    color: white;
+}
+
+header {
+    height: 50px;
+}
+
+nav {
+    font-size: 1em;
+    float: right;
+    width: 140px;
+    padding: 10px;
+    background-color: #EAEAEA;
+    height: 816px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+a:link {
+    padding-left:20px;
+    color: black;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+
+main {
+    margin-right: 160px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    height: 800px;
+    padding-left: 300px;
+}
+
+footer {
+    font-style: italic;
+    background-color: #CCCCFF;
+}
+
+footer p {
+    margin-left: 400px;
+}
+h1 {
+    margin: 0;
+    padding: 10px;
+    font-size: 3em;
+}
+
+hr {
+    margin-bottom:10px;
+}
+
+.subtxt {
+    color: grey;
+    background-color: #FFFFFF;
+    padding-top: 15px;
+    font-size: 1em;
+    padding-bottom:10px;
+}
+
+.calculator{
+    padding-top:-1000px;
+    padding-right: 25px;
+    float:left;
+}
+
+.title {
+    text-align:center;
+    border-bottom:solid black;
+    margin-bottom: 30px;
+    width: 850px;
+}
+
+.name {
+    border: solid #ddd;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 15px;
+    height:50px;
+    width: 400px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+.input {
+    padding-top: 10px;
+    background-color: grey;
+    color: white;
+    padding-left: 15px;
+    border: solid #ddd;
+    width: 385px;
+}
+
+.calculator input {
+    width:100px;
+    clear:both;
+    margin-bottom:20px;
+}
+
+.calculator select{
+    margin-bottom:20px;
+}
+
+.leveldescrip {
+    margin-top: 20px;
+}
+
+.leveldescrip li {
+    padding-bottom: 5px;
+}
+
+
+

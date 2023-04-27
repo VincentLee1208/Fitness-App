@@ -1,0 +1,122 @@
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1470px;
+}
+
+
+.logo{
+    float:left;
+    background-color: #333;
+    overflow:hidden;
+    height:98%;
+}
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    height:98%;
+    color: white;
+}
+
+.navbar a {
+    font-size:1.2em;
+    float:left;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:link {
+    color:white;
+}
+
+.navbar a:hover {
+    background-color: grey;
+    color: black;
+}
+
+.navbar a:visited {
+    color: white;
+}
+
+header {
+    height: 50px;
+}
+
+nav {
+    font-size: 1em;
+    float: right;
+    width: 140px;
+    padding: 10px;
+    background-color: #EAEAEA;
+    height: 761px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+a:link {
+    padding-left:20px;
+    color: black;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+
+main {
+    margin-right: 160px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    height: 600px;
+}
+
+h1 {
+    margin: 0;
+    padding: 10px;
+    font-size: 3em;
+    width: 870px;
+}
+
+hr { 
+    width: 870px;
+}
+
+.title {
+    background-color: white;
+    width: 890px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.subtxt {
+    color:grey;
+    font-size: 1em;
+    font-style: italic;
+    height: 20px;
+    margin-left:5px;
+}
+
+.info {
+    float:left;
+    text-align: left;
+}
+
+.info a {
+    padding-left:0px;
+}
+
+.contact {
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+footer {
+    font-style: italic;
+    background-color: #CCCCFF;
+}
+
+footer p {
+    margin-left: 400px;
+}

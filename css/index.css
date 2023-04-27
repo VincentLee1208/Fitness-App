@@ -1,0 +1,142 @@
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1470px;
+}
+
+
+.logo{
+    float:left;
+    background-color: #333;
+    overflow:hidden;
+    height:98%;
+}
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    height:98%;
+    color: white;
+}
+
+.navbar a {
+    font-size:1.2em;
+    float:left;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:link {
+    color:white;
+}
+
+.navbar a:hover {
+    background-color: grey;
+    color: black;
+}
+
+.navbar a:visited {
+    color: white;
+}
+
+header {
+    height: 50px;
+}
+
+nav {
+    font-size: 1em;
+    float: right;
+    width: 140px;
+    padding: 10px;
+    background-color:#EAEAEA;
+    height: 907px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+a:link {
+    padding-left:20px;
+    color: black;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 3em;
+    margin:0;
+}
+
+.question {
+    font-size: 2em;
+    text-align: center;
+    border-bottom: solid black;
+    width: 500px;
+    margin-left: 400px;
+}
+
+.question2 {
+    font-size: 2em;
+    text-align: center;
+    width: 500px;
+    margin-left: 400px;
+}
+
+.answer {
+    margin-left: 360px;
+    width: 600px;
+}
+
+.choose {
+    margin-left:260px;
+    margin-top: 220px;
+}
+
+.choose a {
+    padding-right: 85px;
+    font-family: Andale Mono, monospace;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+main {
+    margin-right: 160px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    height: 891px;
+}
+
+.row a {
+    padding-left:0px;
+}
+
+.row img {
+    border-radius:50%;
+}
+
+.row {
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+.column {
+    float: left;
+    padding: 5px;
+    width:20%;
+}
+
+footer {
+    font-style: italic;
+    background-color: #CCCCFF;
+}
+
+footer p {
+    margin-left: 400px;
+}
